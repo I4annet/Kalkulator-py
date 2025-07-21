@@ -7,7 +7,7 @@ Membuat instance kelas dan menghubungkan semua komponen.
 Menerima input angka dari pengguna dan mengirimkannya ke kelas kalkulasi.
 Menampilkan hasil operasi melalui kelas Tampil.
 
-## 🔧 [Opeation.py](Operation.py)
+## 🔧 [Operation.py](Operation.py)
 Berisi definisi kelas Operation yang menangani proses matematis.
 Mendukung operasi dasar seperti penjumlahan (sum()), pengurangan (minus()), perkalian (multiply()), dan pembagian (divide()).
 Menerima list angka (number_list) untuk diproses secara dinamis.
